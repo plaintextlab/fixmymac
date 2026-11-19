@@ -1,0 +1,2 @@
+# fixmymac
+Fixes for MacOS
